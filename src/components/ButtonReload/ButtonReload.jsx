@@ -17,4 +17,3 @@ export default ButtonReload;
 ButtonReload.propTypes = {
   onClick: PropTypes.func.isRequired, // `onClick` deve essere una funzione ed è obbligatorio
 };
-
